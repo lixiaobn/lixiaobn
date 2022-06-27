@@ -59,6 +59,7 @@ public class test {
             }
         }
         return tmp.toString();
+
     }
 
     public static int hex16To10(String strHex) {
